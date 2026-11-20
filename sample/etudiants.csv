@@ -1,0 +1,11 @@
+studentName,studentId,diplomaTitle,issueDate,recipientAddress,grade
+Amina Benali,2023-INF-042,Licence Informatique,2026-06-15,0x70997970C51812dc3A010C7d01b50e0d17dc79C8,Mention Bien
+Youssef El Amrani,2023-INF-043,Licence Informatique,2026-06-15,0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC,Mention Très Bien
+Salma Idrissi,2023-INF-044,Licence Informatique,2026-06-15,0x90F79bf6EB2c4f870365E785982E1f101E93b906,Mention Assez Bien
+Omar Tazi,2023-INF-045,Licence Informatique,2026-06-15,0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65,Passable
+Khadija Alaoui,2023-MAT-011,Licence Mathématiques,2026-06-16,0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc,Mention Bien
+Hamza Berrada,2023-MAT-012,Licence Mathématiques,2026-06-16,,Mention Assez Bien
+Imane Chraibi,2022-PHY-007,Master Physique,2026-07-01,,Mention Très Bien
+Reda Fassi,2022-PHY-008,Master Physique,2026-07-01,0x70997970C51812dc3A010C7d01b50e0d17dc79C8,Mention Bien
+Nadia Lahlou,2021-INF-120,Master Informatique,2026-07-02,0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC,Mention Bien
+Anas Bennani,2021-INF-121,Master Informatique,2026-07-02,,Passable
